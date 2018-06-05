@@ -1,6 +1,3 @@
-import tweepy
-from textblob import TextBlob
-import nltk
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
