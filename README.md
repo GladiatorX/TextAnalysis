@@ -1,3 +1,4 @@
 # Tweet Sentiment Analyzer
 
-Analyzing input text to measure polarity.
+* Streams data from Twitter API
+* Analyzing input text using TextBlob package.
